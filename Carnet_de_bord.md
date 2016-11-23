@@ -29,3 +29,13 @@ la commande **visudo** sous l'utilisateur **root**.
 Le fichier édité à l'aide de la commande **visudo** pourrais aussi être ouvert avec **vim /etc/sudoers**.
 Mais lors de l'utilisation de l'utilitaire **vim**, le fichier est ouvert en lecture seule. Aucune modifications n'est possible.
 
+###Clonage
+
+Création de trois clones **intégrale** de la VM **debian_base** :
+* Gateway
+* Client
+* Serveur
+
+
+
+
